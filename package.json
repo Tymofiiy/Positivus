@@ -1,0 +1,17 @@
+{
+  "name": "pr3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass scss:dist/css --watch --style compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.74.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
